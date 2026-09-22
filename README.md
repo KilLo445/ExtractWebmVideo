@@ -147,7 +147,10 @@ _I personally recommend installing FFmpeg to PATH, as this is usable at anytime 
 3. Place `ffmpeg.exe` next to `ExtractWebmVideo.exe`
 4. Done!
 
-## License
+## Credits
+
+This project is a fork of [ExtractWebmVideo](https://github.com/csabor/ExtractWebmVideo)
+by [csabor](https://github.com/csabor).
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
