@@ -161,5 +161,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [issues-url]: https://github.com/KilLo445/ExtractWebmVideo/issues
 [.NET]: https://img.shields.io/badge/.NET_Framework-5C2D91?style=for-the-badge&logo=.net&logoColor=white
 [framework-url]: https://dotnet.microsoft.com/en-us/download/dotnet-framework
-[dl-shield]: https://img.shields.io/github/downloads/KilLo445/ExtractWebmVideo/total?style=for-the-badge&label=Downloads&color=2E3440
+[dl-shield]: https://img.shields.io/github/downloads/KilLo445/ExtractWebmVideo/ExtractWebmVideo.exe?displayAssetName=false&style=for-the-badge&label=Downloads&color=2E3440
 [latest]: https://github.com/KilLo445/ExtractWebmVideo/releases/latest
