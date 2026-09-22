@@ -6,7 +6,7 @@ namespace ExtractWebmVideo
 {
     class Program
     {
-        public static string version = "0.1";
+        public static string version = "1.0";
         public static string github = "https://github.com/KilLo445/ExtractWebmVideo";
 
         public static string root = Directory.GetCurrentDirectory();
