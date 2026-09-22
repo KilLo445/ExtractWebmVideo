@@ -79,6 +79,42 @@ Windows versions that support .NET Framework 4.8 may already have it installed.
 1. Head over to the [latest release](https://github.com/KilLo445/ExtractWebmVideo/releases/latest)
 2. Download `ExtractWebmVideo.exe`
 
+### Getting The AutoDance File
+Getting the raw AutoDance file from an Xbox 360 is pretty simple! All you need is a USB drive.
+#### Formatting the USB Drive
+__THIS WILL ERASE ALL DATA ON THE DRIVE. BACKUP ANYTHING YOU CARE ABOUT__
+1. Plug your USB drive into your Xbox 360.
+2. Go to __Settings -> System -> Storage__.
+3. Hover over the USB drive.
+4. Press 'Y', and select __Format__.
+
+    _If your drive shows as "Unformatted", press 'A' instead of 'Y' and you should be able to format it._
+
+#### Copying the AutoDance file
+1. Plug your USB drive into your Xbox 360.
+2. Go to __Settings -> System -> Storage__.
+3. Select the device with your AutoDance save file.
+
+   _For example, Hard Drive or Memory Unit._
+4. Go to __Games and Apps__.
+5. Find Just Dance 4.
+
+   _This may work with later titles, although this is untested._
+6. Select your AutoDance, then copy, and finally select your USB drive.
+
+   _They may not be named, however, ExtractWebmVideo supports batch conversion, so feel free to copy all of your AutoDances over!_
+7. Plug your USB drive back into your PC
+8. Go to __Content -> Profile ID -> Game ID -> 00000001__
+
+    _All of your AutoDance files will be in this folder, you can try to use this file but the extraction may come out with some artficating. I recommend using wxPirs before running ExtractWebmVideo_
+
+#### wxPirs
+I recommend using wxPirs before running ExtractWebmVideo, in my experience, this reduces the chance of artficating.
+
+1. Download [wxPirs](http://gael360.free.fr/wxPirs.php)
+2. Go to __File -> Open__ and select the AutoDance file
+3. You will see another file with the same name but a smaller size pop up, right click on it, and select extract.
+4. Use this extracted file inside ExtractWebmVideo
 ### Usage
 
 ```
