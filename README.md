@@ -1,5 +1,10 @@
 ﻿<a name="readme-top"></a>
 <div align="center">
+<a href="https://github.com/KilLo445/ExtractWebmVideo">
+    <img src="https://raw.githubusercontent.com/KilLo445/ExtractWebmVideo/refs/heads/master/.github/Icon.svg" alt="Logo" width=200>
+    <br />
+    <br />
+  </a>
     <h1>ExtractWebmVideo</h1>
     <br />
     A fork of <a href="https://github.com/csabor/ExtractWebmVideo">csabor/ExtractWebmVideo</a> that extracts the embedded video from Just Dance 4 AutoDance files by locating the WebM header and writing the video data to a separate file. Along with drag-and-drop support, MP4 conversion using <a href="https://ffmpeg.org/">FFmpeg</a>, and additional quality-of-life features.
