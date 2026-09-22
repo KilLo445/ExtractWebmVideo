@@ -31,6 +31,12 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
+      <a href="#getting-the-autodance-file">Getting The AutoDance File</a>
+        <ul>
+          <li><a href="#formatting-the-usb-drive">Formatting the USB Drive</a></li>
+          <li><a href="#copying-the-autodance-file">Copying the AutoDance file</a></li>
+          <li><a href="#wxPirs">wxPirs</a></li>
+        </ul>
         <li><a href="#installation">Installation</a></li>
         <li><a href="#usage">Usage</a></li>
         <li><a href="#examples">Examples</a></li>
@@ -79,11 +85,6 @@ Windows versions that support .NET Framework 4.8 may already have it installed.
   - [Direct (Web)](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer)
   - [Direct (Offline)](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-offline-installer)
 
-### Installation
-
-1. Head over to the [latest release](https://github.com/KilLo445/ExtractWebmVideo/releases/latest)
-2. Download `ExtractWebmVideo.exe`
-
 ### Getting The AutoDance File
 Getting the raw AutoDance file from an Xbox 360 is pretty simple! All you need is a USB drive.
 #### Formatting the USB Drive
@@ -120,6 +121,12 @@ I recommend using wxPirs before running ExtractWebmVideo, in my experience, this
 2. Go to __File -> Open__ and select the AutoDance file
 3. You will see another file with the same name but a smaller size pop up, right click on it, and select extract.
 4. Use this extracted file inside ExtractWebmVideo
+
+### Installation
+
+1. Head over to the [latest release](https://github.com/KilLo445/ExtractWebmVideo/releases/latest)
+2. Download `ExtractWebmVideo.exe`
+
 ### Usage
 
 ```
