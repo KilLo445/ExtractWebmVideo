@@ -112,10 +112,10 @@ __THIS WILL ERASE ALL DATA ON THE DRIVE. BACKUP ANYTHING YOU CARE ABOUT__
 7. Plug your USB drive back into your PC
 8. Go to __Content -> Profile ID -> Game ID -> 00000001__
 
-    _All of your AutoDance files will be in this folder, you can try to use this file but the extraction may come out with some artficating. I recommend using wxPirs before running ExtractWebmVideo_
+    _All of your AutoDance files will be in this folder, you can try to use this file but the extraction may come out with some artifacting. I recommend using wxPirs before running ExtractWebmVideo_
 
 #### wxPirs
-I recommend using wxPirs before running ExtractWebmVideo, in my experience, this reduces the chance of artficating.
+I recommend using wxPirs before running ExtractWebmVideo, in my experience, this reduces the chance of artifacting.
 
 1. Download [wxPirs](http://gael360.free.fr/wxPirs.php)
 2. Go to __File -> Open__ and select the AutoDance file
